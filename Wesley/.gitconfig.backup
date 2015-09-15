@@ -1,0 +1,10 @@
+[user]
+	name = Wesley Detweiler
+	email = wes.detweiler@gmail.com
+[merge]
+	tool = kdiff3
+[diff]
+	guitool = kdiff3
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
+	autocrlf = True
